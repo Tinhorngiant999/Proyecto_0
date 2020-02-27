@@ -1,0 +1,21 @@
+Mi pagina seria un blog personas para recomendar todos los libros que eh leido desde este año en adelante y ademas poner como que
+avances sobre que voy a leer despues, diviendo todo por nombres de los autores y dando una sinopsis de cada uno
+
+Lo primero serian los html, empezando por el home donde seria todo el menu para poder entrar a todas la paginas, esta es la que usa
+boostrap para hacer un menu desplegable y que responsive, y la tabla que tambien es responsive, usando los <a><li><ul> para hacer los 
+nombres y que aparezcan debajo los libros de cada autor, utilizando todo lo que dice dashboard tambien para el menu, table para 
+la tabla de mis libros favoritos y usando la clase col-sm-3 para las columnas donde aparece Brandon sanderson 
+
+Apartir de aqui todos los demas html son iguales, teniendo un titulo, un fondo, poniendo color de texto y que esten alineados al 
+centro, y cada uno con una imagen que seria la portada de cada libro.
+
+El css de estilos es nada mas para la tabla y para cambiar su color a la hora de poner el mouse encima.
+
+La carpeta de assets contien la imagen de los 3 puntos y el fondo del menú.
+
+La carpeta js contiene todos los javascripts para que el menu funcione, como la animación de cuando se le da clic y aparecen los 
+libros, y tambien para cambiar la barra de scroll.
+
+Todo lo que viene en la carpeta de fonts venia con boostrap
+
+Los css son de boostrap y son para que funcione la barra de scroll y el menu.
